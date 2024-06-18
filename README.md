@@ -1,4 +1,4 @@
-#Shell Stock Price Prediction using LSTM
+<h2>Shell Stock Price Prediction using LSTM</h2>
 - Yfinance was used to get the stock price dataset
 - An Moving Average or the context of previous 100 days price was used to predict the nth day's price
 - A Custom LSTM Model was created with 4 LSTM layers coupled with Dropout Layers and one Dense Layer to get the output.
